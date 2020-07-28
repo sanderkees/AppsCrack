@@ -34,8 +34,8 @@
         <string>1</string>
         <key>kind</key>
         <string>software</string>
-        <key>Youtube</key>
-        <string>App</string>
+        <key>Title</key>
+        <string>Youtube</string>
       </dict>
     </dict>
   </array>
