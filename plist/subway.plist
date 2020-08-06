@@ -17,25 +17,25 @@
 		<key>kind</key>
 		<string>display-image</string>
 		<key>url</key>
-		<string>https://sanderkees.github.io/AppsCrack/img/fnaf_icon.jpg</string>
+		<string>https://sanderkees.github.io/AppsCrack/img/odyssey_icon.jpg</string>
 		</dict>
 		<dict>
 		<key>kind</key>
 		<string>full-size-image</string>
 		<key>url</key>
-		<string>https://sanderkees.github.io/AppsCrack/img/fnaf_icon.png</string>
+		<string>https://sanderkees.github.io/AppsCrack/img/odyssey_icon.png</string>
 		</dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.scottgames.fivenights</string>
+        <string>org.coolstar.odyssey</string>
         <key>bundle-version</key>
         <string>1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Five Nights at Freddy's</string>
+        <string>Odyssey</string>
       </dict>
     </dict>
   </array>
